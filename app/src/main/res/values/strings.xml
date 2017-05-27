@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MovieMania</string>
+    <string name="theMoviDB_id">952e74ecedb6e2474a588ba462fe4d90</string>
+    <string name="settings">Settings</string>
+    <string name="popular">popular</string>
+    <string-array name="sort">
+        <item>"Popular"</item>
+        <item>"TopRated"</item>
+    </string-array>
+    <string-array name="sort_value">
+        <item>"popular"</item>
+        <item>"top_rated"</item>
+    </string-array>
+    <string name="title_activity_movie_details">MovieDetailsActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
